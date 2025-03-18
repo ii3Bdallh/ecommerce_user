@@ -1,30 +1,40 @@
-# InDrive Clone 🚗  
-A comprehensive ride-hailing and delivery service application built using **Flutter** for the frontend and **PHP/MySQL** for the backend.
-
-
+# 🛒 E-Commerce App  
+A modern and feature-rich e-commerce application built using **Flutter** for the frontend and **PHP/MySQL** for the backend.
 
 ## ✨ Key Features
 - **User Authentication** 🔐
-  - Phone number verification
-  - Profile creation
+  - Sign in with Email
+  - Sign in with Google
+  - Profile creation & management
 
-- **Ride Services** 🚘
-  - Local rides
-  - City-to-city travel
-  - Ride tracking
-  - Driver selection
+- **Product Management** 🏷️
+  - Browse products by categories
+  - View product details with images & descriptions
+  - Add items to the shopping cart
 
-- **Freight Delivery** 📦
-  - Cargo description
-  - Vehicle selection
-  - Scheduling options
+- **Cart & Checkout** 🛍️
+  - Manage items in the cart
+  - Apply coupons and discounts
+  - Secure checkout process
 
-- **Ride History** 📝
-  - Trip details
-  - Receipt generation
-  - Support access
+- **Wishlist & Favorites** ❤️
+  - Save favorite products for later
+  - Sync wishlist across devices
 
-- **Multiple Payment Options** 💰
+- **Order & Delivery Tracking** 🚚
+  - Add & manage shipping addresses
+  - Track order status in real-time
+  - Receive notifications for updates
+
+- **Order History & Support** 📜
+  - View past orders and purchase details
+  - Download receipts & invoices
+  - Contact customer support easily
+
+- **Multiple Payment Options** 💳
+  - Credit/Debit Cards
+  - PayPal & Digital Wallets
+  - Cash on Delivery
 
 ## 📸 Screenshots
 <div align="center">
@@ -45,8 +55,29 @@ A comprehensive ride-hailing and delivery service application built using **Flut
 <img src="./assets/screenshots/15-search.png" width="200" alt="Search Screen">
 <img src="./assets/screenshots/16-forgetpassword.png" width="200" alt="Forget Password Screen">
 <img src="./assets/screenshots/17-resetPassword.png" width="200" alt="Reset Password Screen">
-
 </div>
+
+## 🛠️ Tech Stack
+- **Frontend**:  
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">  
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
+
+- **Backend**:  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+
+- **Payment Integration**:  
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white" alt="Stripe">  
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white" alt="PayPal">
+
+## 🚀 Implementation Details
+- **User-Friendly Interface**: Clean and intuitive UI for easy shopping
+- **Secure Authentication**: Email and Google sign-in for quick access
+- **Real-Time Order Tracking**: Stay updated on order progress
+- **Wishlist & Favorites**: Save items for future purchases
+- **Flexible Payment Options**: Multiple ways to pay securely
+
+---
 
 ## 🛠️ Tech Stack
 - **Frontend**:  
@@ -59,13 +90,6 @@ A comprehensive ride-hailing and delivery service application built using **Flut
 
 - **Maps & Location**:  
   <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white" alt="Google Maps">
-
-## 🚀 Implementation Details
-- **Location-based Services**: Real-time tracking of drivers and rides
-- **Authentication System**: Secure phone number verification
-- **Interactive UI**: User-friendly interface for easy navigation
-- **Multiple Service Types**: Supports various transportation and delivery needs
-- **Payment Integration**: Secure payment processing
 
 
 ---
