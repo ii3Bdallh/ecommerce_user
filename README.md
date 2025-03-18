@@ -31,11 +31,6 @@ A modern and feature-rich e-commerce application built using **Flutter** for the
   - Download receipts & invoices
   - Contact customer support easily
 
-- **Multiple Payment Options** 💳
-  - Credit/Debit Cards
-  - PayPal & Digital Wallets
-  - Cash on Delivery
-
 ## 📸 Screenshots
 <div align="center">
   <img src="./assets/screenshots/0-home.png" width="200" alt="Login Screen">
@@ -67,9 +62,6 @@ A modern and feature-rich e-commerce application built using **Flutter** for the
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 
-- **Payment Integration**:  
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white" alt="Stripe">  
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white" alt="PayPal">
 
 ## 🚀 Implementation Details
 - **User-Friendly Interface**: Clean and intuitive UI for easy shopping
