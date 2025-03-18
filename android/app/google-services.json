@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "978563030549",
+    "project_id": "ecommerce-bcade",
+    "storage_bucket": "ecommerce-bcade.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978563030549:android:00f6d4166d8aa554e8781c",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqICOpnEDpmDmNA5JfjV8U-DCov8Cvn1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978563030549:android:6fb82c5bcd6305fae8781c",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqICOpnEDpmDmNA5JfjV8U-DCov8Cvn1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
