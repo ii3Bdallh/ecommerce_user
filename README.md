@@ -68,4 +68,3 @@ A modern and feature-rich e-commerce application built using **Flutter** for the
 - **Secure Authentication**: Email and Google sign-in for quick access
 - **Real-Time Order Tracking**: Stay updated on order progress
 - **Wishlist & Favorites**: Save items for future purchases
-- **Flexible Payment Options**: Multiple ways to pay securely
